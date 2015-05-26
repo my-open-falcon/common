@@ -2,7 +2,7 @@ package pool
 
 import (
 	"fmt"
-	"github.com/open-falcon/common/model"
+	"github.com/my-open-falcon/common/model"
 	"github.com/toolkits/pool"
 	"io"
 	"log"
